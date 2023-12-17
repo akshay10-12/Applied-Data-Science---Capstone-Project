@@ -13,3 +13,16 @@ Theaim of this project is to predict if the Falcon 9 first stage will land succe
 - Create and execute SQL queries to select and sort data
 - Utilize data visualization skills to visualize the data and extract meaningful patterns to guide the modeling process
 
+## 3). Interactive Visual Analytics and Dashboard 
+- Build an interactive dashboard that contains pie charts and scatter plots to analyze data with the Plotly Dash Python library.
+- Calculate distances on an interactive map by writing Python code using the Folium library.
+- Generate interactive maps, plot coordinates, and mark clusters by writing Python code using the Folium library.
+- Build a dashboard to analyze launch records interactively with Plotly Dash.
+- Build an interactive map to analyze the launch site proximity with Folium.
+
+## 4). Machine Learning - Predictive Analytics 
+- Split the data into training testing data
+- Train different classification models
+- Optimize the Hyperparameter grid search
+- Utilize your machine learning skills to build a predictive model to help a business function more efficiently
+
